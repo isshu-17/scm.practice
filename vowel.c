@@ -3,6 +3,8 @@ void main()
 {
    char vowel;
    printf("enter a character")
+   printf("enter a variable")
+	   
    scanf("%c",&vowel);
    if(vowel=='a'/'e'/'i'/'o'/'u'/)
    printf("the character is:%c",vowel);
